@@ -1,9 +1,9 @@
 <a href='https://play.google.com/store/apps/details?id=com.aircoookie.WLED&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a>
 <a href='https://apps.apple.com/us/app/wled/id1475695033'><img alt='Download on the App Store' src='https://raw.githubusercontent.com/Aircoookie/WLED-App/master/StoreImages/appstore_badge.svg?sanitize=true' height="55" align="middle"/></a>
 
-## Welcome to the WLED app! (v1.0.3)
+## Welcome to the MLED app! (v1.0.3)
 
-A brand new app for Android, iPhone, iPad and UWP devices for discovering and controlling your [WLED](https://github.com/Aircoookie/WLED) devices easily!
+A brand new app for Android, iPhone, iPad and UWP devices for discovering and controlling your [MLED](https://github.com/magiclightde/MLED) devices easily!
 
 ### Features:
 - Automatic device detection (mDNS)
@@ -13,7 +13,7 @@ A brand new app for Android, iPhone, iPad and UWP devices for discovering and co
 
 ### FAQ:
 
-#### My WLED lights are not found!
+#### My MLED lights are not found!
 
 Ensure your phone/device is in the same network as the ESP.  
 The "mDNS address" WiFi settings entry in WLED must be unique for every device.  
